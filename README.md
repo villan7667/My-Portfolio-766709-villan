@@ -4,7 +4,7 @@ Welcome to my personal developer portfolio!
 This website highlights **who I am**, my **technical skills**, and the **real-world applications** I’ve built using modern technologies like **MERN**, **JAVA**, and more.
 
 <p align="left">
-  <a href="https://villan7667portfolio.netlify.app/">
+  <a href="https://my-portfolio-766709-villan-react.netlify.app/">
     <img src="https://img.shields.io/badge/🌐%20Live%20Portfolio-Click%20to%20View-00BFFF?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
   <p align="right">
