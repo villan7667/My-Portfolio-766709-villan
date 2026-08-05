@@ -17,6 +17,8 @@ const projects = [
 
   { href: "https://db-todo-hl2c.onrender.com/", img: "./assets/images/project-7.png", title: "Task Master", date: "May 2024", datetime: "2023-25" },
 
+  { href: "https://cobra7667villan.netlify.app/", img: "./assets/images/project-8.png", title: "Cobra Snake Game", date: "May 2025", datetime: "2025-26" },
+
 ];
 
 export default function Portfolio() {
