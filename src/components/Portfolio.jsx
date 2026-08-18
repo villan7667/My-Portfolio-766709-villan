@@ -3,7 +3,7 @@ const projects = [
 
   { href: "https://skygame7667villan.netlify.app/", img: "./assets/images/skygame.png", title: "Arcade game", date: "Jun 2026", datetime: "2026-06" },
 
-   { href: "https://memory-match-game-7667.netlify.app/", img: "./assets/images/memory-game.png", title: "Memory Test Game", date: "April 2022", datetime: "2026-05" },
+  { href: "https://memory-match-game-7667.netlify.app/", img: "./assets/images/memory-game.png", title: "Memory Test Game", date: "April 2022", datetime: "2026-05" },
 
   { href: "https://food-villan-7667.netlify.app/", img: "./assets/images/project-2.png", title: "Omni food", date: "Jun 2022", datetime: "2022-15" },
 
@@ -12,12 +12,14 @@ const projects = [
   { href: "https://sharing-app-q4i6.onrender.com/", img: "./assets/images/project-4.png", title: "Sharing App", date: "Feb 2023", datetime: "2023-04" },
 
   { href: "https://ai-powered-notebook-villan7667.onrender.com", img: "./assets/images/project-5.png", title: "AI Powered notbook", date: "Aug 2023", datetime: "2023-16" },
-  
+
   { href: "https://explore-jharkhand.onrender.com/", img: "./assets/images/project-6.png", title: "Explore Jharkhand", date: "Dec 2024", datetime: "2023-20" },
 
   { href: "https://db-todo-hl2c.onrender.com/", img: "./assets/images/project-7.png", title: "Task Master", date: "May 2024", datetime: "2023-25" },
 
   { href: "https://cobra7667villan.netlify.app/", img: "./assets/images/project-8.png", title: "Cobra Snake Game", date: "May 2025", datetime: "2025-26" },
+
+  { href: "https://ai-java-code-reviewer.onrender.com/", img: "./assets/images/project-9.png", title: "Sharing App", date: "July 2026", datetime: "2026-07" },
 
 ];
 
