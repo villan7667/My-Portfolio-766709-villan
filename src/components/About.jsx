@@ -77,7 +77,7 @@ export default function About({ showAlert }) {
           </button>
           <a
             className="btn btn-primary"
-            href="https://drive.google.com/file/d/1lSMbhCKUXxkNZ3HclHTNlpXXSHt7Pahg/view?usp=sharing"
+            href="https://drive.google.com/file/d/1ClcBsls1lyWAws8vx4mFgdej0lIBJpzj/view?usp=drive_link"
             target="_blank"
             rel="noopener"
           >
